@@ -1,7 +1,7 @@
-from Lib.comandos import comandos
-from Lib.iof import iof,rm,mv,cpy,rn
-from Lib.boTH import isboTHtype,boTH
-from Lib.editor import editor
+from comandos import comandos
+from iof import iof,rm,mv,cpy,rn
+from boTH import isboTHtype,boTH
+from editor import editor
 from colorama import Fore,init
 import os
 

@@ -1,5 +1,5 @@
 import os;
-from Lib.iof import fixp;
+from iof import fixp;
 
 local=os.getcwd();
 
